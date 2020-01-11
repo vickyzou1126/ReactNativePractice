@@ -1,3 +1,3 @@
 # ReactNativePractice
 React Native Tutorial Practice 
-Add / Remove /display items
+Add/Remove/Display items
